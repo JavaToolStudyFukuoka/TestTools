@@ -10,7 +10,7 @@ http://javatoolstudy-fukuoka.connpass.com/event/26690/
 
 | 発表者 | テーマ | その他資料 |
 |------------|--------------|--------------|
-| takesi_yosimura | JUnitの話初心者編 | - |
+| takesi_yosimura | [JUnitの話初心者編](http://www.slideshare.net/takeshiyoshimura376/java-tool201602) | [FizzBuzzJunit](https://github.com/JavaToolStudyFukuoka/TestTools/tree/master/junit_practice/FizzBuzzJunit) |
 | choonggeun | Spockについて | - |
 | k_kato | BlueJ による（教育的）自動テストコード生成と [エモテスト名言集](https://javatoolstudyfukuoka.github.io/TestTools/@k_kato/#/)| - |
 | takayuki_kando | [JMeterをWebでしか設定できないサーバの設定自動化に使う](http://www.slideshare.net/takayukikando/jmeterweb) | - |
